@@ -2,6 +2,7 @@
 - 👀 The Open Web JP offers IT, Open Source code and services online, and in Japan.
 - 🌱 The Open Web JP is currently working towards offering services that help society.
 - 💞️ Please feel free to contact about collaboration for providing useful IT services.
+- ✉  Contact form: [https://theopenweb.jp#contact](https://theopenweb.jp#contact)
 - 📫 Please feel free to check out The Open Web JP on the service website [https://theopenweb.info](https://theopenweb.info) or business website [https://theopenweb.jp](https://theopenweb.jp).
 
 <!---
