@@ -1,1 +1,3 @@
-  - [theopenweb-public-contributions](https://github.com/theopenwebjp/theopenweb-public-contributions)
+# CONTRIBUTING
+
+- [theopenweb-public-contributions](https://github.com/theopenwebjp/theopenweb-public-contributions)
